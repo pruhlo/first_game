@@ -121,8 +121,3 @@ if __name__ == '__main__':
         else:
             input('Press Enter to execute the move ')
             game.batle(game.random_choice())
-
-
-
-
-
