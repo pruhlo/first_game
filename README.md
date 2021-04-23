@@ -3,11 +3,11 @@
 ## How to play
 
 The console application has two game modes:
-1. Automatic - starts by simply pressing the enter button
+1. Automatic - started by entering "1" in the console after the request
 
 ![example](https://github.com/pruhlo/first_game/blob/master/Screen.png)
 
-2. Manual - started by entering "1" in the console after the request
+2. Manual - starts by simply pressing the enter button
 
 ![example](https://github.com/pruhlo/first_game/blob/master/Animation_gif.gif)
 
